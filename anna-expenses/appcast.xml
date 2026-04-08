@@ -3,14 +3,14 @@
   <channel>
     <title>AnnaExpenses Updates</title>
     <item>
-      <title>Version 1.0.13</title>
-      <sparkle:version>1.0.13</sparkle:version>
-      <sparkle:shortVersionString>1.0.13</sparkle:shortVersionString>
-      <pubDate>Wed, 08 Apr 2026 14:05:32 +0800</pubDate>
+      <title>Version 1.0.14</title>
+      <sparkle:version>1.0.14</sparkle:version>
+      <sparkle:shortVersionString>1.0.14</sparkle:shortVersionString>
+      <pubDate>Wed, 08 Apr 2026 17:01:11 +0800</pubDate>
       <enclosure
-        url="https://github.com/youngandai/mac-app-releases/releases/download/anna-expenses-v1.0.13/AnnaExpenses.app.zip"
+        url="https://github.com/youngandai/mac-app-releases/releases/download/anna-expenses-v1.0.14/AnnaExpenses.app.zip"
         type="application/octet-stream"
-        sparkle:edSignature="UBUQ4aglaxvyid7gUiiQZosi4ih5vpfDqWc/HJscwC0+MCfAtl/Qw5G6fjAOeE1daMb23FtsRsYHJweEu9NoDA==" length="1675901"
+        sparkle:edSignature="HfBb7u5Zu2OgWKJSeXnPq3Jpuu64H1XrfGRhV1FBbTQrWSzdUjYlV8KuvNLacJNsFSqqiX2yZQeOthzEJsp6Ag==" length="1705768"
       />
     </item>
   </channel>
