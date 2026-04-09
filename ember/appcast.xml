@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Ember Updates</title>
+    <item>
+      <title>Version 1.0.1</title>
+      <sparkle:version>1.0.1</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <pubDate>Thu, 09 Apr 2026 15:29:40 +0800</pubDate>
+      <enclosure
+        url="https://github.com/youngandai/mac-app-releases/releases/download/ember-v1.0.1/Ember.app.zip"
+        type="application/octet-stream"
+        sparkle:edSignature="YhoqUdZHDMObNJQTEaCJ3QU7WM348sQq9gMq93DCkC8maBYTSgk7PRJd4Ij7vi/a80VXTS7yD0klhf+VtBi9DA==" length="1833239"
+      />
+    </item>
+  </channel>
+</rss>
